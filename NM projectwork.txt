@@ -2,7 +2,7 @@ import numpy as n
 import pandas as p
 import matplotlib.pyplot as m
 import seaborn as s
-data=p.read_csv("C:/Users/vishnu prasath.N/Desktop/New folder/IMDB Dataset.csv")
+data=p.read_csv("C:/IMDB Dataset.csv")
 data.head(121230)
 data.columns
 data.tail(100)
